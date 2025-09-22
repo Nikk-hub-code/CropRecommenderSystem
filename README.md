@@ -79,5 +79,5 @@ TEXT-BASED FLOW DESCRIPTION
         │   └── Top 3 recommendations
         │
     └── Error handling for invalid input
-│
-END
+    │
+    END
